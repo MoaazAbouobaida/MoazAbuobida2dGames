@@ -26,6 +26,7 @@ provider.Mappings[".wasm"] = "application/wasm";
 provider.Mappings[".json"] = "application/json";
 provider.Mappings[".js"] = "application/javascript";
 
+
 // Serve static files from wwwroot by default
 app.UseStaticFiles(new StaticFileOptions
 {
