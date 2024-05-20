@@ -6,4 +6,14 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Certificates\" />
+    <Folder Include="Views\Accomplishments\" />
+    <Folder Include="Views\Blog\" />
+    <Folder Include="Views\Contact\" />
+    <Folder Include="Views\Resume\" />
+    <Folder Include="Views\Projects\" />
+    <Folder Include="Views\Sports\" />
+  </ItemGroup>
+
 </Project>
